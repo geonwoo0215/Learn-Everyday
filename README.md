@@ -7,3 +7,5 @@
 -[SpringMVC - Http message body 데이터 요청과 응답 - @RequestBody와 @ResponseBody](https://dailydebug.tistory.com/112)
 
 -[SpringMVC - Bean Validation @Validated, @Valid로 검증하기](https://dailydebug.tistory.com/113)
+
+-[SpringMVC - API 예외처리 @ExceptionHandler, @ControllerAdvice](https://dailydebug.tistory.com/114)
