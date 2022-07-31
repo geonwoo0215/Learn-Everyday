@@ -8,6 +8,8 @@
 
 -[SpringMVC - Bean Validation @Validated, @Valid로 검증하기](https://dailydebug.tistory.com/113)
 
+-[SpringMVC - 예외처리와 오류페이지](https://dailydebug.tistory.com/119)
+
 -[SpringMVC - API 예외처리 @ExceptionHandler, @ControllerAdvice](https://dailydebug.tistory.com/114)
 
 -[SpringMVC - 쿠키를 사용하여 로그인 만들기](https://dailydebug.tistory.com/115)
