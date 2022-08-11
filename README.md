@@ -23,3 +23,5 @@
 # :computer: Computer Science
 
 -[API란 무잇일까?](https://dailydebug.tistory.com/120)
+
+-[REST란 무엇일까?](https://dailydebug.tistory.com/121)
