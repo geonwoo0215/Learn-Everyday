@@ -25,3 +25,5 @@
 -[API란 무엇일까?](https://dailydebug.tistory.com/120)
 
 -[REST란 무엇일까?](https://dailydebug.tistory.com/121)
+
+-[HTTP 메서드란 무엇일까?](https://dailydebug.tistory.com/73)
