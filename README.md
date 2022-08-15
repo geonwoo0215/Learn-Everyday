@@ -31,3 +31,7 @@
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
+
+# :rose: HTTP
+
+-[SOP와 CORS는 무엇일까?](https://dailydebug.tistory.com/123)
