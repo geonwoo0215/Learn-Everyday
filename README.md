@@ -28,9 +28,13 @@
 
 -[HTTP 메서드란 무엇일까?](https://dailydebug.tistory.com/73)
 
+-[TCP와 UDP](https://dailydebug.tistory.com/72)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
+
+-[객체지향 설계 원칙-SOLID 원칙](https://dailydebug.tistory.com/38)
 
 # :rose: HTTP
 
