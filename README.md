@@ -28,6 +28,8 @@
 
 -[TCP와 UDP](https://dailydebug.tistory.com/72)
 
+-[OSI 7계층이란 무엇일까?](https://dailydebug.tistory.com/125)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
