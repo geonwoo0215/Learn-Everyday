@@ -30,6 +30,8 @@
 
 -[OSI 7계층이란 무엇일까?](https://dailydebug.tistory.com/125)
 
+-[프로토콜이란 무엇일까?](https://dailydebug.tistory.com/32)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
