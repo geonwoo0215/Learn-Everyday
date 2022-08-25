@@ -32,6 +32,8 @@
 
 -[프로토콜이란 무엇일까?](https://dailydebug.tistory.com/32)
 
+-[DNS란 무엇일까?](https://dailydebug.tistory.com/126)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
