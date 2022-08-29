@@ -34,6 +34,8 @@
 
 -[DNS란 무엇일까?](https://dailydebug.tistory.com/126)
 
+-[시스템 콜이란 무엇일까?](https://dailydebug.tistory.com/127)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
