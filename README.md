@@ -36,6 +36,8 @@
 
 -[시스템 콜이란 무엇일까?](https://dailydebug.tistory.com/127)
 
+-[프로세스란 무엇인가?](https://dailydebug.tistory.com/128)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
