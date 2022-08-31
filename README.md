@@ -40,6 +40,8 @@
 
 -[프로세스 스케줄링이란 무엇일까?](https://dailydebug.tistory.com/129)
 
+-[스레드란 무엇일까?](https://dailydebug.tistory.com/130)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
