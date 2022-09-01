@@ -42,6 +42,9 @@
 
 -[스레드란 무엇일까?](https://dailydebug.tistory.com/130)
 
+-[프로세스 동기화란 무엇일까?](https://dailydebug.tistory.com/131)
+
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
