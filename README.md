@@ -44,6 +44,8 @@
 
 -[프로세스 동기화란 무엇일까?](https://dailydebug.tistory.com/131)
 
+-[데드락이란 무엇일까?](https://dailydebug.tistory.com/132)
+
 
 # :art: OOP
 
