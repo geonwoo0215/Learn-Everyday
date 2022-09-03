@@ -46,6 +46,8 @@
 
 -[데드락이란 무엇일까?](https://dailydebug.tistory.com/132)
 
+-[메모리 관리란 무엇일까?](https://dailydebug.tistory.com/133)
+
 
 # :art: OOP
 
