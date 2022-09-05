@@ -48,6 +48,7 @@
 
 -[메모리 관리란 무엇일까?](https://dailydebug.tistory.com/133)
 
+-[가상 메모리란 무잇인가?](https://dailydebug.tistory.com/134)
 
 # :art: OOP
 
