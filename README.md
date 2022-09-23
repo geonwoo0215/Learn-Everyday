@@ -20,7 +20,7 @@
 
 -[SpringMVC - MockMVC로 테스트하기](https://dailydebug.tistory.com/118)
 
--[Springoot - Kakao map Api 사용해보기](https://dailydebug.tistory.com/135)
+-[SpringBoot - Kakao map Api 사용해보기](https://dailydebug.tistory.com/135)
 
 # :computer: Computer Science
 
