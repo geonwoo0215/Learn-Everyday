@@ -66,6 +66,8 @@
 
 -[쿠키와 세션은 무엇일까?](https://dailydebug.tistory.com/124)
 
+-[포워딩과 리다이렉트의 차이점은 무엇일까?](https://dailydebug.tistory.com/136)
+
 # :sunny: 자료구조
 
 -[ArrayList와 LinkedList](https://dailydebug.tistory.com/64)
