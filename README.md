@@ -52,6 +52,10 @@
 
 -[가상 메모리란 무잇인가?](https://dailydebug.tistory.com/134)
 
+# :coffee: JAVA
+
+-[== 와 equals()는 다른걸까 같은걸까?](https://dailydebug.tistory.com/m/137)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
