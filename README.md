@@ -56,6 +56,8 @@
 
 -[== 와 equals()는 다른걸까 같은걸까?](https://dailydebug.tistory.com/m/137)
 
+-[String Pool로 String 객체의 연산 이해하기](https://dailydebug.tistory.com/m/138)
+
 # :art: OOP
 
 -[일급 컬렉션은 무엇일까?](https://dailydebug.tistory.com/122)
